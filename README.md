@@ -16,9 +16,9 @@ A lightweight, command-line Python application designed to help users efficientl
 
 ## How to Run
 
-1. Clone this repository or download the `expense_tracker.py` script.
+1. Clone this repository or download the `ExpTrack4u.py` script.
 2. Open your terminal or command prompt.
 3. Navigate to the directory where the file is saved.
 4. Execute the script using the following command:
    ```bash
-   python expense_tracker.py
+   python ExpTrack4u.py
